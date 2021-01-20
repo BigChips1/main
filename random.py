@@ -1,0 +1,1 @@
+print (sum(n for n in range(1000) if not n%3 == 0 or n%5==0))
